@@ -1,0 +1,39 @@
+body {
+  background-color: whitesmoke;
+}
+
+#side1 {
+  margin-left: 300px
+}
+
+#side2 {
+  margin-left: 756px;
+  margin-top: -530px;
+}
+
+#die {
+  margin-left: -15px;
+}
+
+#img {
+  margin-right: 90px;
+}
+
+#img2 {
+  margin-left: -150px;
+  size: 200px;
+}
+
+#what {
+  font-size: 14px;
+  margin-left: -15px
+}
+
+#mask {
+  margin-right: 90px;
+  margin-left: 400px;
+}
+
+#tittle {
+  margin-left: -29px;
+}
