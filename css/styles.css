@@ -8,7 +8,7 @@ body {
 
 #side2 {
   margin-left: 756px;
-  margin-top: -530px;
+  margin-top: -720px;
 }
 
 #die {
@@ -36,4 +36,8 @@ body {
 
 #tittle {
   margin-left: -29px;
+}
+
+.summary {
+  margin-top: 50px;
 }
